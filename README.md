@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Patel</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img  align="right" alt="coding" widht="400" scr="![image](https://github.com/user-attachments/assets/598f0f90-d1da-413a-93c6-71c20027c6a8)
-" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanofficially&label=Profile%20views&color=0e75b6&style=flat" alt="amanofficially" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-amanofficiallys-projects.vercel.app/](https://portfolio-amanofficiallys-projects.vercel.app/)
