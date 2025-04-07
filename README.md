@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Patel</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<img align="right" alt="coding" widht="400" scr="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+<img align="right" alt="coding" widht="400" scr="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanofficially&label=Profile%20views&color=0e75b6&style=flat" alt="amanofficially" /> </p>
 
