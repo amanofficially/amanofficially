@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer !!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanofficially&label=Profile%20views&color=0e75b6&style=flat" alt="amanofficially" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-amanofficiallys-projects.vercel.app/](https://portfolio-amanofficiallys-projects.vercel.app/)
-
 - 📫 How to reach me **amanofficially02@gmail.com**
 
 <p align="left">
