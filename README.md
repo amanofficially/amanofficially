@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ 3D Front-End Tech Stack
+## 🛠️ Front-End Tech Stack
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
