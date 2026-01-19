@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/github/followers/amanofficially?label=Followers&style=social&color=00ffcc" alt="followers"/>
 </p>
 
-<!-- UPDATED 3D FLOATING CODER GIF -->
+<!-- FIRST ORIGINAL GIF BACK AGAIN -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="430"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 ---
