@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning **Advanced React.js & Modern UI Design**  
 - 🎨 I love building **beautiful, responsive, and user-friendly web interfaces**  
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js & UI Development**  
-- 🎯 Goal: To become a **Professional Front-End Developer**  
+- 🎯 Goal: To become a **Professional Full Stack Developer**  
 - 📫 Reach me at **amanofficially02@gmail.com**  
 - ⚡ Fun fact: I enjoy turning designs into interactive websites 😄  
 
