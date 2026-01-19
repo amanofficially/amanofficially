@@ -1,33 +1,33 @@
-<!-- NEW 3D Gradient Header -->
+<!-- Dark Glassmorphism Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Hey%20👋,%20I'm%20Aman%20Patel&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%20👋,%20I'm%20Aman%20Patel&fontSize=50&animation=twinkling&fontColor=ffffff&fontAlignY=35" width="100%" />
 </p>
 
 <h3 align="center">🎨 Front-End Web Developer | React.js Enthusiast | UI Focused Coder 💻</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanofficially&label=Profile%20Views&color=6a0dad&style=flat" alt="amanofficially" />
-  <img src="https://img.shields.io/github/followers/amanofficially?label=Followers&style=social&color=00ffff" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=amanofficially&label=Profile%20Views&color=1f8ef1&style=flat" alt="amanofficially" />
+  <img src="https://img.shields.io/github/followers/amanofficially?label=Followers&style=social&color=0fffc1" alt="followers"/>
 </p>
 
-<!-- New Aesthetic 3D Coding Visual -->
+<!-- Dark Transparent Coding Visual -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="420"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="420"/>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 I’m currently learning **Advanced React.js & Modern UI Design**  
-- 🎨 I love building **beautiful, responsive, and user-friendly web interfaces**  
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js & UI Development**  
-- 🎯 Goal: To become a **Professional Front-End Developer**  
-- 📫 Reach me at **amanofficially02@gmail.com**  
-- ⚡ Fun fact: I enjoy turning designs into interactive websites 😄  
+- 🌱 I’m currently learning **Advanced React.js & Modern UI Design**
+- 🎨 I love building **beautiful, responsive, and user-friendly web interfaces**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js & UI Development**
+- 🎯 Goal: To become a **Professional Front-End Developer**
+- 📫 Reach me at **amanofficially02@gmail.com**
+- ⚡ Fun fact: I enjoy turning designs into interactive websites 😄
 
 ---
 
-### 🛠️ Front-End Tech Stack (New Layout)
+### 🛠️ Front-End Tech Stack (Dark Glass Style)
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
@@ -58,7 +58,7 @@
 
 ---
 
-<!-- New Minimal 3D Footer -->
+<!-- Dark Transparent Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=footer&text=Design.%20Code.%20Deliver.&fontSize=22" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&text=Design.%20Code.%20Deliver.&fontSize=22&fontColor=ffffff" width="100%" />
 </p>
