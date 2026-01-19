@@ -1,64 +1,52 @@
-<!-- 3D Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20👋,%20I'm%20Aman%20Patel&fontSize=50&animation=twinkling&fontAlignY=35" width="100%" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Aman%20Patel&fontSize=70&animation=fadeIn&fontAlignY=38" alt="Header" />
 
-<h3 align="center">🎨 Front-End Web Developer | React.js Enthusiast | UI Focused Coder 💻</h3>
+  <h1><img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/assets/hi.gif" width="30px"> I'm Aman Patel</h1>
+  <h3>🎨 Front-End Web Developer | React.js Enthusiast | UI Focused Coder 💻</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanofficially&label=Profile%20Views&color=0e75b6&style=flat" alt="amanofficially" />
-  <img src="https://img.shields.io/github/followers/amanofficially?label=Followers&style=social" alt="followers"/>
-</p>
-
-<!-- 3D Floating Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=amanofficially&label=Profile%20Views&color=0e75b6&style=flat-square" alt="amanofficially" />
+    <img src="https://img.shields.io/github/followers/amanofficially?label=Followers&style=flat-square&color=blue" alt="followers"/>
+  </p>
+</div>
 
 ---
 
-### 🧑‍💻 About Me
-- 🌱 I’m currently learning **Advanced React.js & Modern UI Design**
-- 🎨 I love building **beautiful, responsive, and user-friendly web interfaces**
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js & UI Development**
-- 🎯 Goal: To become a **Professional Front-End Developer**
-- 📫 Reach me at **amanofficially02@gmail.com**
-- ⚡ Fun fact: I enjoy turning designs into interactive websites 😄
+### 🚀 Quick Overview
+
+<table align="center">
+  <tr>
+    <td width="50%" style="border: none;">
+      <p><strong>🧑‍💻 About Me</strong></p>
+      <ul>
+        <li>🌱 Currently learning <b>Advanced React.js & Modern UI Design</b></li>
+        <li>🎨 Passionate about building <b>responsive & user-friendly interfaces</b></li>
+        <li>💬 Ask me about <b>HTML, CSS, JS, React & UI Development</b></li>
+        <li>🎯 Goal: To become a <b>Professional Front-End Developer</b></li>
+        <li>📫 Reach me at: <a href="mailto:amanofficially02@gmail.com"><b>amanofficially02@gmail.com</b></a></li>
+      </ul>
+    </td>
+    <td width="50%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=amanofficially&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Aman's Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Front-End Tech Stack (3D Style Icons)
-
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55" height="55"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" height="55"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" height="55"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="55" height="55"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="55" height="55"/>
-  </a>
-</p>
+### 🛠️ Front-End Tech Stack
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,git,figma,vscode&perline=8" />
+</div>
 
 ---
 
-<!-- 3D Footer Banner -->
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Design.%20Code.%20Deliver.&fontSize=24" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanofficially&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<div align="center">
+  <p>⭐ <b>“Design. Code. Deliver.”</b></p>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/31a33190e5033833075276e19f9f5822f6797b5e/get-it-on-github.png" width="150px" />
+</div>
