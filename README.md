@@ -43,7 +43,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git" height="48"/>
   <img src="https://skillicons.dev/icons?i=github" height="48"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="48"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="48"/>
 </p>
 
@@ -60,17 +59,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
