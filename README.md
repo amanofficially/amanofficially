@@ -9,13 +9,8 @@
 
 ## About Me
 
-- Passionate **MERN Stack Developer**
-- Learning **advanced backend & scalable systems**
-- Strong in **JavaScript & Web Fundamentals**
-- Focus on **clean and maintainable code**
-- Enjoy building real-world web applications
+I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation in **JavaScript and web development fundamentals**. I enjoy building clean, scalable, and maintainable web applications using modern technologies like **React, Node.js, Express, and MongoDB**. I am constantly learning and exploring advanced backend concepts and scalable systems, with a focus on writing efficient code and delivering real-world projects. I thrive in collaborative environments and enjoy solving challenging problems while keeping up with the latest trends in web development.
 
----
 
 ## Tech Stack
 
