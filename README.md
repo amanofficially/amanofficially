@@ -5,44 +5,44 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=4FC3F7&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB;Building+Modern+Web+Apps" />
 </p>
 
----
+<hr style="border:1px solid #d1d5db; margin: 20px 0;" />
 
 ## About Me
 
 I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation in **JavaScript and web development**. I enjoy building **clean, scalable, and maintainable web applications** using modern technologies like **React, Node.js, Express, and MongoDB**. I continuously explore advanced backend concepts and scalable systems, focusing on writing **efficient code** and delivering **real-world projects**. I thrive in collaborative environments, enjoy solving challenging problems, and keep up with the latest trends in web development.
 
----
+<hr style="border:1px solid #d1d5db; margin: 20px 0;" />
 
 ## Tech Stack
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="32"/>
-  <img src="https://skillicons.dev/icons?i=css" height="32"/>
-  <img src="https://skillicons.dev/icons?i=js" height="32"/>
-  <img src="https://skillicons.dev/icons?i=react" height="32"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="32"/>
+  <img src="https://skillicons.dev/icons?i=html" height="36" style="display:block; vertical-align:middle;"/>
+  <img src="https://skillicons.dev/icons?i=css" height="36" style="display:block; vertical-align:middle;"/>
+  <img src="https://skillicons.dev/icons?i=js" height="36" style="display:block; vertical-align:middle;"/>
+  <img src="https://skillicons.dev/icons?i=react" height="36" style="display:block; vertical-align:middle;"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="36" style="display:block; vertical-align:middle;"/>
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="32"/>
-  <img src="https://skillicons.dev/icons?i=express" height="32"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="36" style="display:block; vertical-align:middle;"/>
+  <img src="https://skillicons.dev/icons?i=express" height="36" style="display:block; vertical-align:middle;"/>
 </p>
 
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="32"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="36" style="display:block; vertical-align:middle;"/>
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="32"/>
-  <img src="https://skillicons.dev/icons?i=github" height="32"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="32"/>
+  <img src="https://skillicons.dev/icons?i=git" height="36" style="display:block; vertical-align:middle;"/>
+  <img src="https://skillicons.dev/icons?i=github" height="36" style="display:block; vertical-align:middle;"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="36" style="display:block; vertical-align:middle;"/>
 </p>
 
----
+<hr style="border:1px solid #d1d5db; margin: 20px 0;" />
 
 ## Skills & Strengths
 
@@ -53,9 +53,8 @@ I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation 
 - Problem Solving  
 - Team Collaboration  
 
----
+<hr style="border:1px solid #d1d5db; margin: 20px 0;" />
 
-<!-- Example: Connect With Me Section -->
 ## Connect With Me
 
 <p>
@@ -72,11 +71,7 @@ I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation 
   </a>
 </p>
 
-<!-- Use thin horizontal lines instead of --- -->
 <hr style="border:1px solid #d1d5db; margin: 20px 0;" />
-
-
----
 
 ## Signature
 
