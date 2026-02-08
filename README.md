@@ -62,13 +62,16 @@
 ## Connect With Me
 
 <p>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/your-username" style="margin-right: 16px;">
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+
+  <a href="https://linkedin.com/in/your-profile" style="margin-right: 16px;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
+
   <a href="mailto:your-email@example.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
 </p>
+
