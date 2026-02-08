@@ -1,62 +1,86 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Hi,+I'm+Aman+Patel;Beginner+MERN+Stack+Developer;Building+Scalable+Web+Apps" alt="Typing SVG" />
+<!-- TYPING INTRO -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1500&color=FFFFFF&center=true&vCenter=true&width=550&lines=Aman+Patel;Beginner+MERN+Stack+Developer;Learning+Full+Stack+Web+Development" 
+    alt="Typing SVG" 
+  />
+</p>
 
-  <p align="center">
-    <a href="https://github.com/amanofficially">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="mailto:amanofficially02@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+<!-- SOCIAL LINKS -->
+<p align="center">
+  <a href="https://github.com/amanofficially">
+    <img src="https://img.shields.io/badge/GitHub-amanofficially-000000?style=flat&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:amanofficially02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-gray?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-  <img src="https://komarev.com/ghpvc/?username=amanofficially&label=PROFILE+VIEWS&color=61DAFB&style=flat-square" alt="Views" />
-</div>
-
----
-
-### ⚡ Quick Summary
-
-I am a passionate **MERN Stack Developer** in the making. I bridge the gap between elegant UI design and robust backend logic. Currently, I'm deep-diving into the JavaScript ecosystem to build seamless user experiences.
-
-- 🚀 **Currently exploring:** Advanced React patterns & Middleware in Express.
-- 🛠️ **Building:** Scalable projects to master the MERN flow.
-- 🎨 **Focus:** Clean code, responsive design, and efficient REST APIs.
-- ☕ **Fun Fact:** I believe a good UI is like a joke—if you have to explain it, it’s not that good.
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amanofficially&label=Profile%20Views&color=bbbbbb&style=flat" />
+</p>
 
 ---
 
-### 🛠️ Tech Toolbox
+## 👋 About Me
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,tailwind,git,github,vscode,figma&theme=dark" />
-</div>
+Hi, I’m **Aman Patel** 👨‍💻  
+A passionate beginner **MERN Stack Developer** focused on building strong fundamentals and real-world projects.
 
----
-
-### 📈 GitHub Ecosystem
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=amanofficially&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanofficially&layout=compact&theme=tokyonight&hide_border=false" width="300" />
-      </td>
-    </tr>
-  </table>
-</div>
+- 🌱 Currently learning **React, Node.js, Express & MongoDB**
+- 🧠 Strengthening **JavaScript fundamentals**
+- 🛠️ Building small projects to improve problem-solving
+- 🎨 Interested in **clean UI & simple backend logic**
+- 📧 Reach me at **amanofficially02@gmail.com**
 
 ---
 
-### 🎯 Roadmap for 2026
-- [ ] Master MongoDB Aggregation Pipelines
-- [ ] Build a Real-time Chat App (Socket.io)
-- [ ] Contribute to Open Source Projects
-- [ ] Deploy 5 Full-stack Projects
+## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/snake.svg" alt="Snake Animation" />
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode&theme=light" 
+  />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- ✅ JavaScript Core Concepts  
+- ⚛️ React Basics  
+- 🔗 REST APIs  
+- 🌱 Git & GitHub Workflows  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=amanofficially&show_icons=true&theme=graywhite&hide_border=true" 
+    height="160"
+  />
+  &nbsp;
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=amanofficially&theme=graywhite&hide_border=true" 
+    height="160"
+  />
+</p>
+
+---
+
+## 🚀 Goals
+
+- Build complete **MERN stack projects**
+- Improve **problem-solving & DSA basics**
+- Contribute to **open-source**
+- Become a confident **Full-Stack Developer**
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐  
 </p>
