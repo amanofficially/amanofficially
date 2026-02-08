@@ -1,71 +1,91 @@
-# 👋 Hi, I'm Aman Patel
+<h1 align="center">Hi 👋, I'm Aman Patel</h1>
+<h3 align="center">🚀 MERN Stack Developer | Web Developer</h3>
 
-## 🚀 MERN Stack Developer | Web Developer
-
-I am a passionate **MERN Stack Developer** with hands-on experience in building responsive, scalable, and user-friendly web applications. I enjoy turning ideas into real-world projects using modern web technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 💻 Specialize in **MERN Stack Development**
-- 🌱 Currently improving **backend performance & system design**
-- 🔍 Interested in **Full-Stack Web Development**
-- 🛠 Love building clean, efficient, and maintainable code
-- 📚 Always learning new tools and best practices
+- 💻 Passionate **MERN Stack Developer**
+- 🌱 Currently learning **advanced backend & system design**
+- 🧠 Strong understanding of **JavaScript & Web Fundamentals**
+- 🔧 Love writing **clean, scalable, and efficient code**
+- 🚀 Always excited to work on real-world projects
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- React.js  
-- Bootstrap / Tailwind CSS  
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
-### Backend
-- Node.js  
-- Express.js  
+### ⚙ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
-### Database
-- MongoDB  
+### 🗄 Database
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-### Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Postman  
-- npm  
-
----
-
-## 📂 Projects
-
-### 🛒 Cara-Shopping (E-commerce Website)
-- Full-featured e-commerce web application
-- User authentication (Login / Signup)
-- Admin panel for product management
-- Responsive UI using modern frontend tools
-- Backend APIs built with Node & Express
-
-> More projects available on my GitHub repositories.
+### 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-## 🎯 Skills
+## 🎯 Skills & Strengths
 
-- Full Stack Web Development  
-- REST API Development  
-- Authentication & Authorization  
-- CRUD Operations  
-- Responsive Web Design  
-- Problem Solving  
+- ⚡ Full Stack Web Development  
+- 🔐 Authentication & Authorization  
+- 🔄 RESTful APIs  
+- 📱 Responsive Web Design  
+- 🧩 Problem Solving  
+- 🤝 Team Collaboration  
 
 ---
 
-## 📫 Contact Me
+## 📊 GitHub Stats
 
-- **Email:** your-email@example.com  
-- **GitHub:** https://github.com/your-username  
-- **LinkedIn:** https://linkedin.c
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to connect and explore my repositories.*
