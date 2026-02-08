@@ -1,25 +1,25 @@
-<!-- PROFESSIONAL BLUE HEADER -->
+<!-- MODERN CLEAN HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eff6ff,100:dbeafe&height=190&section=header&text=Aman%20Patel&fontSize=42&fontColor=1e3a8a&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f8fafc,100:e5e7eb&height=180&section=header&text=Aman%20Patel&fontSize=40&fontColor=0f172a&animation=fadeIn" width="100%" />
 </p>
 
-<!-- SOFT TYPING ANIMATION -->
+<!-- MODERN TYPING ANIMATION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=2563eb&center=true&vCenter=true&width=520&lines=Beginner+MERN+Stack+Developer;Learning+Full+Stack+Web+Development;Focused+on+Clean+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=19&pause=1300&color=2563eb&center=true&vCenter=true&width=520&lines=Beginner+MERN+Stack+Developer;Learning+Full+Stack+Web+Development;Focused+on+Fundamentals" />
 </p>
 
-<!-- GITHUB -->
+<!-- GITHUB LINK -->
 
 <p align="center">
   <a href="https://github.com/amanofficially" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-amanofficially-1e40af?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-amanofficially-111827?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanofficially&label=Profile%20Views&color=3b82f6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=amanofficially&label=Profile%20Views&color=9ca3af&style=flat" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 - Beginner **MERN Stack Developer**
 - Learning **React, Node.js, Express & MongoDB**
-- Building **small projects** to improve skills
+- Practicing by building **small full-stack projects**
 - Interested in **clean UI and simple backend logic**
 - 📧 **amanofficially02@gmail.com**
 
@@ -47,12 +47,12 @@
 - JavaScript fundamentals  
 - React components & hooks  
 - Basic REST APIs  
-- Git & GitHub practice  
+- Git & GitHub workflow  
 
 ---
 
-<!-- CLEAN BLUE FOOTER -->
+<!-- MODERN FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dbeafe,100:eff6ff&height=90&section=footer&text=Learn.%20Build.%20Grow.&fontSize=18&fontColor=1e3a8a" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e5e7eb,100:f8fafc&height=80&section=footer&text=Learn.%20Build.%20Grow.&fontSize=17&fontColor=0f172a" width="100%" />
 </p>
