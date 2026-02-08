@@ -1,9 +1,14 @@
-<h1 align="center">👋 Hi, I'm Aman Patel</h1>
+<!-- ===== HEADER START ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:5AC8FA&height=180&section=header&text=Aman%20Patel&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h3 align="center">💻 MERN Stack Developer  Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=5AC8FA&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB;Always+Learning+New+Things" />
 </p>
+<!-- ===== HEADER END ===== -->
 
 ---
 
@@ -75,4 +80,12 @@
 
 ---
 
-⭐️ *Thanks for stopping by — let’s build clean, scalable & beautiful web apps together.* 🚀
+<!-- ===== FOOTER START ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5AC8FA,100:0A84FF&height=120&section=footer" />
+</p>
+
+<p align="center">
+  <sub>Built with 💙 by Aman Patel • MERN Stack Developer</sub>
+</p>
+<!-- ===== FOOTER END ===== -->
