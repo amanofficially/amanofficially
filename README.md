@@ -63,15 +63,15 @@
 
 <p>
   <a href="https://github.com/your-username" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="24"/>
+    <img src="https://skillicons.dev/icons?i=github" height="48"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/your-profile" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="24"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:your-email@example.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="24"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
   </a>
 </p>
 
