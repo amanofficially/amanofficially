@@ -52,22 +52,7 @@ I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation 
 - Team Collaboration  
 
 <hr style="border:0.3px solid #d1d5db; margin: 20px 0;" />
-
-## Connect With Me
-
-<p>
-  <a href="https://github.com/your-username" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" height="42" style="margin-right:20px; vertical-align:middle;" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" style="margin-right:20px; vertical-align:middle;" />
-  </a>
-  <a href="mailto:your-email@example.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" style="vertical-align:middle;" />
-  </a>
-</p>
-
-<hr style="border:0.3px solid #d1d5db; margin: 20px 0;" />
+/>
 
 
 <p align="center">
