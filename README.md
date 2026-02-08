@@ -1,48 +1,48 @@
-<h1 align="center" style="font-size: 3em;">Hi, I'm Aman Patel</h1>
-<h3 align="center" style="font-size: 1.8em;">MERN Stack Developer | Web Developer</h3>
+<h1 align="center" style="font-size:3em; font-family: 'Inter', sans-serif;">Hi, I'm Aman Patel</h1>
+<h3 align="center" style="font-size:1.8em; font-family: 'Inter', sans-serif;">MERN Stack Developer | Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=4FC3F7&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB;Building+Modern+Web+Apps" />
 </p>
-<hr style="border:0.3px solid #d1d5db; margin: 20px 0;" />
 
+<hr style="border:0.3px solid #d1d5db; margin:20px 0;" />
 
 ## About Me
 
 I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation in **JavaScript and web development**. I enjoy building **clean, scalable, and maintainable web applications** using modern technologies like **React, Node.js, Express, and MongoDB**. I continuously explore advanced backend concepts and scalable systems, focusing on writing **efficient code** and delivering **real-world projects**. I thrive in collaborative environments, enjoy solving challenging problems, and keep up with the latest trends in web development.
 
-<hr style="border:0.3px solid #d1d5db; margin: 20px 0;" />
+<hr style="border:0.3px solid #d1d5db; margin:20px 0;" />
 
 ## Tech Stack
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="42" style="margin-right:15px; vertical-align:middle;"/>
-  <img src="https://skillicons.dev/icons?i=css" height="42" style="margin-right:15px; vertical-align:middle;"/>
-  <img src="https://skillicons.dev/icons?i=js" height="42" style="margin-right:15px; vertical-align:middle;"/>
-  <img src="https://skillicons.dev/icons?i=react" height="42" style="margin-right:15px; vertical-align:middle;"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="42" style="margin-right:15px; vertical-align:middle;"/>
+  <img src="https://skillicons.dev/icons?i=html" height="42" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=css" height="42" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=js" height="42" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=react" height="42" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="42" style="margin-right:15px;"/>
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="42" style="margin-right:15px; vertical-align:middle;"/>
-  <img src="https://skillicons.dev/icons?i=express" height="42" style="margin-right:15px; vertical-align:middle;"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="42" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=express" height="42" style="margin-right:15px;"/>
 </p>
 
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="42" style="margin-right:15px; vertical-align:middle;"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="42" style="margin-right:15px;"/>
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="42" style="margin-right:15px; vertical-align:middle;"/>
-  <img src="https://skillicons.dev/icons?i=github" height="42" style="margin-right:15px; vertical-align:middle;"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="42" style="margin-right:15px; vertical-align:middle;"/>
+  <img src="https://skillicons.dev/icons?i=git" height="42" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=github" height="42" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="42" style="margin-right:15px;"/>
 </p>
 
-<hr style="border:0.3px solid #d1d5db; margin: 20px 0;" />
+<hr style="border:0.3px solid #d1d5db; margin:20px 0;" />
 
 ## Skills & Strengths
 
@@ -51,9 +51,9 @@ I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation 
 - Problem Solving  
 - Team Collaboration  
 
-<hr style="border:0.3px solid #d1d5db; margin: 20px 0;" />
+<hr style="border:0.3px solid #d1d5db; margin:20px 0;" />
 
 <p align="center">
-  <strong style="font-size:1.2em;">“Wear your failures as a badge of honor.”</strong><br>
-  <em style="font-size:1em;">— Sundar Pichai</em>
+  <strong style="font-size:1.2em; font-family: 'Inter', sans-serif;">“Wear your failures as a badge of honor.”</strong><br>
+  <em style="font-size:1em; font-family: 'Inter', sans-serif;">— Sundar Pichai</em>
 </p>
