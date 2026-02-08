@@ -62,16 +62,16 @@
 ## Connect With Me
 
 <p>
-  <a href="https://github.com/your-username" style="margin-right: 16px;">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  <a href="https://github.com/your-username" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="24"/>
   </a>
-
-  <a href="https://linkedin.com/in/your-profile" style="margin-right: 16px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/your-profile" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="24"/>
   </a>
-
-  <a href="mailto:your-email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:your-email@example.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="24"/>
   </a>
 </p>
 
