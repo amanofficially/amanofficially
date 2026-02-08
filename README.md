@@ -5,13 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=4FC3F7&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB;Building+Modern+Web+Apps" />
 </p>
 
-<hr style="border:0.5px solid #d1d5db; margin: 20px 0;" />
+<hr style="border:0.3px solid #d1d5db; margin: 20px 0;" />
 
 ## About Me
 
 I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation in **JavaScript and web development**. I enjoy building **clean, scalable, and maintainable web applications** using modern technologies like **React, Node.js, Express, and MongoDB**. I continuously explore advanced backend concepts and scalable systems, focusing on writing **efficient code** and delivering **real-world projects**. I thrive in collaborative environments, enjoy solving challenging problems, and keep up with the latest trends in web development.
 
-<hr style="border:1px solid #d1d5db; margin: 20px 0;" />
+<hr style="border:0.3px solid #d1d5db; margin: 20px 0;" />
 
 ## Tech Stack
 
@@ -42,7 +42,7 @@ I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation 
   <img src="https://skillicons.dev/icons?i=vscode" height="42" style="margin-right:15px; vertical-align:middle;"/>
 </p>
 
-<hr style="border:1px solid #d1d5db; margin: 20px 0;" />
+<hr style="border:0.3px solid #d1d5db; margin: 20px 0;" />
 
 ## Skills & Strengths
 
@@ -53,7 +53,7 @@ I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation 
 - Problem Solving  
 - Team Collaboration  
 
-<hr style="border:1px solid #d1d5db; margin: 20px 0;" />
+<hr style="border:0.3px solid #d1d5db; margin: 20px 0;" />
 
 ## Connect With Me
 
@@ -69,7 +69,7 @@ I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation 
   </a>
 </p>
 
-<hr style="border:1px solid #d1d5db; margin: 20px 0;" />
+<hr style="border:0.3px solid #d1d5db; margin: 20px 0;" />
 
 ## Signature
 
