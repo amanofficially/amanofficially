@@ -1,5 +1,8 @@
-<h1 align="center" style="font-size:3em; font-family: 'Inter', sans-serif;">Hi, I'm Aman Patel</h1>
-<h3 align="center" style="font-size:1.8em; font-family: 'Inter', sans-serif;">MERN Stack Developer | Web Developer</h3>
+<!-- Header Section -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+
+<h1 align="center" style="font-family: 'Inter', sans-serif; font-weight:700; font-size:3em;">Hi, I'm Aman Patel</h1>
+<h3 align="center" style="font-family: 'Inter', sans-serif; font-weight:500; font-size:1.8em;">MERN Stack Developer | Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=4FC3F7&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB;Building+Modern+Web+Apps" />
@@ -7,12 +10,14 @@
 
 <hr style="border:0.3px solid #d1d5db; margin:20px 0;" />
 
+<!-- About Me Section -->
 ## About Me
 
 I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation in **JavaScript and web development**. I enjoy building **clean, scalable, and maintainable web applications** using modern technologies like **React, Node.js, Express, and MongoDB**. I continuously explore advanced backend concepts and scalable systems, focusing on writing **efficient code** and delivering **real-world projects**. I thrive in collaborative environments, enjoy solving challenging problems, and keep up with the latest trends in web development.
 
 <hr style="border:0.3px solid #d1d5db; margin:20px 0;" />
 
+<!-- Tech Stack Section -->
 ## Tech Stack
 
 ### Frontend
@@ -44,6 +49,7 @@ I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation 
 
 <hr style="border:0.3px solid #d1d5db; margin:20px 0;" />
 
+<!-- Skills Section -->
 ## Skills & Strengths
 
 - Full Stack Web Development  
@@ -53,7 +59,8 @@ I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation 
 
 <hr style="border:0.3px solid #d1d5db; margin:20px 0;" />
 
-<p align="center">
-  <strong style="font-size:1.2em; font-family: 'Inter', sans-serif;">“Wear your failures as a badge of honor.”</strong><br>
-  <em style="font-size:1em; font-family: 'Inter', sans-serif;">— Sundar Pichai</em>
+<!-- Quote Section -->
+<p align="center" style="font-family: 'Inter', sans-serif;">
+  <strong style="font-size:1.2em;">“Wear your failures as a badge of honor.”</strong><br>
+  <em style="font-size:1em;">— Sundar Pichai</em>
 </p>
