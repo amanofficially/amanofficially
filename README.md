@@ -1,11 +1,12 @@
-<!-- SIMPLE CLEAN HEADER -->
+<!-- 3D ANIMATED HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f766e,100:334155&height=160&section=header&text=Aman%20Patel&fontSize=42&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:1e293b&height=210&section=header&text=Aman%20Patel&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
-<h3 align="center">Full Stack MERN Developer</h3>
-<p align="center">React • Node.js • Express • MongoDB</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Building+Real-World+Web+Apps" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amanofficially&label=Profile%20Views&color=0f766e&style=flat" />
@@ -14,34 +15,38 @@
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-- Full Stack **MERN Developer** focused on clean & scalable apps  
-- Strong in **React UI**, **REST APIs**, and **MongoDB schemas**  
-- Enjoy building **end-to-end web products**  
-- Currently improving **backend architecture & performance**  
+- 💻 **Full Stack MERN Developer**  
+- ⚙️ Build scalable apps from **UI → API → Database**  
+- 🎯 Focused on **performance, structure & clean code**  
+- 🧠 Currently leveling up **backend & system design**  
 - 📧 **amanofficially02@gmail.com**
 
 ---
 
-## 🧩 Tech Stack
+## 🧱 MERN Tech Stack (3D Style)
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,vscode&theme=dark" />
 </p>
+
+> 💡 Icons above have **3D depth + hover animation** (best supported by GitHub)
 
 ---
 
-<!-- SIMPLE FOOTER -->
+## ⚡ What I Build
+
+- 🔐 Authentication Systems (JWT, Role-based access)
+- 📦 REST APIs & Backend Logic
+- 🛒 Full Stack MERN Projects
+- 📊 Dashboards & Admin Panels
+- 🎨 Responsive & modern UI
+
+---
+
+<!-- 3D FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,100:0f766e&height=90&section=footer&text=Simple.%20Clean.%20Scalable.&fontSize=20&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f766e&height=120&section=footer&text=Build.%20Break.%20Improve.&fontSize=20&fontColor=ffffff" width="100%" />
 </p>
