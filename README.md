@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Aman Patel</h1>
-<h3 align="center">🚀 MERN Stack Developer | Web Developer</h3>
+<h1 align="center">👋 Hi, I'm Aman Patel</h1>
+<h3 align="center">💻 MERN Stack Developer  Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4FC3F7&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=5AC8FA&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨🏻‍💻 About Me
 
 - 💻 Passionate **MERN Stack Developer**
 - 🌱 Learning **advanced backend & scalable systems**
 - 🧠 Strong in **JavaScript & Web Fundamentals**
 - 🧹 Focus on **clean and maintainable code**
-- 🚀 Love building real-world web apps
+- 🚀 Love building real-world web apps on **modern stacks**
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 
 ### 🌐 Frontend
 <p>
@@ -28,18 +28,18 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="48"/>
 </p>
 
-### ⚙ Backend
+### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" height="48"/>
   <img src="https://skillicons.dev/icons?i=express" height="48"/>
 </p>
 
-### 🗄 Database
+### 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" height="48"/>
 </p>
 
-### 🧰 Tools
+### 🛠 Tools & Workspace
 <p>
   <img src="https://skillicons.dev/icons?i=git" height="48"/>
   <img src="https://skillicons.dev/icons?i=github" height="48"/>
@@ -53,14 +53,13 @@
 - ⚡ Full Stack Web Development  
 - 🔐 Authentication & Authorization  
 - 🔄 RESTful APIs  
-- 📱 Responsive Design  
-- 🧩 Problem Solving  
+- 📱 Responsive & Mobile-First Design  
+- 🧩 Problem Solving Mindset  
 - 🤝 Team Collaboration  
 
 ---
 
-
-## 📫 Connect With Me
+## 📲 Connect With Me
 
 <p>
   <a href="https://github.com/your-username">
@@ -76,4 +75,4 @@
 
 ---
 
-⭐️ *Thanks for visiting my profile! Let’s connect and build something awesome.*
+⭐️ *Thanks for stopping by — let’s build clean, scalable & beautiful web apps together.* 🚀
