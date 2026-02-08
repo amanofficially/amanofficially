@@ -75,3 +75,7 @@
   </a>
 </p>
 
+---
+
+> **“Wear your failures as a badge of honor.”**  
+> — *Sundar Pichai*
