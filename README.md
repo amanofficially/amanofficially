@@ -55,21 +55,26 @@ I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation 
 
 ---
 
+<!-- Example: Connect With Me Section -->
 ## Connect With Me
 
 <p>
   <a href="https://github.com/your-username" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" height="32"/>
+    <img src="https://skillicons.dev/icons?i=github" height="36" style="display:block; vertical-align:middle;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/your-profile" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" style="display:block; vertical-align:middle;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:your-email@example.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" height="32"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="36" style="display:block; vertical-align:middle;" />
   </a>
 </p>
+
+<!-- Use thin horizontal lines instead of --- -->
+<hr style="border:1px solid #d1d5db; margin: 20px 0;" />
+
 
 ---
 
