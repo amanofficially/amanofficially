@@ -2,15 +2,16 @@
 <h3 align="center">MERN Stack Developer | Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4FC3F7&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4FC3F7&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB;Building+Modern+Web+Apps" />
 </p>
 
 ---
 
 ## About Me
 
-I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation in **JavaScript and web development fundamentals**. I enjoy building clean, scalable, and maintainable web applications using modern technologies like **React, Node.js, Express, and MongoDB**. I am constantly learning and exploring advanced backend concepts and scalable systems, with a focus on writing efficient code and delivering real-world projects. I thrive in collaborative environments and enjoy solving challenging problems while keeping up with the latest trends in web development.
+I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation in **JavaScript and web development**. I enjoy building **clean, scalable, and maintainable web applications** using modern technologies like **React, Node.js, Express, and MongoDB**. I continuously explore advanced backend concepts and scalable systems, focusing on writing **efficient code** and delivering **real-world projects**. I thrive in collaborative environments, enjoy solving challenging problems, and keep up with the latest trends in web development.
 
+---
 
 ## Tech Stack
 
@@ -60,11 +61,11 @@ I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation 
   <a href="https://github.com/your-username" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" height="48"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/your-profile" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:your-email@example.com" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
   </a>
