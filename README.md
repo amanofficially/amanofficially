@@ -47,8 +47,6 @@ I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation 
 ## Skills & Strengths
 
 - Full Stack Web Development  
-- Authentication & Authorization  
-- RESTful APIs  
 - Responsive & Mobile-First Design  
 - Problem Solving  
 - Team Collaboration  
