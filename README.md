@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=4FC3F7&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB;Building+Modern+Web+Apps" />
 </p>
 
-<hr style="border:1px solid #d1d5db; margin: 20px 0;" />
+<hr style="border:0.5px solid #d1d5db; margin: 20px 0;" />
 
 ## About Me
 
