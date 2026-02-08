@@ -52,8 +52,6 @@ I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation 
 - Team Collaboration  
 
 <hr style="border:0.3px solid #d1d5db; margin: 20px 0;" />
-/>
-
 
 <p align="center">
   <strong style="font-size:1.2em;">“Wear your failures as a badge of honor.”</strong><br>
