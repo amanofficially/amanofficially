@@ -17,29 +17,29 @@ I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation 
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="48"/>
-  <img src="https://skillicons.dev/icons?i=css" height="48"/>
-  <img src="https://skillicons.dev/icons?i=js" height="48"/>
-  <img src="https://skillicons.dev/icons?i=react" height="48"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html" height="32"/>
+  <img src="https://skillicons.dev/icons?i=css" height="32"/>
+  <img src="https://skillicons.dev/icons?i=js" height="32"/>
+  <img src="https://skillicons.dev/icons?i=react" height="32"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="32"/>
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="48"/>
-  <img src="https://skillicons.dev/icons?i=express" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="32"/>
+  <img src="https://skillicons.dev/icons?i=express" height="32"/>
 </p>
 
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="32"/>
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="48"/>
-  <img src="https://skillicons.dev/icons?i=github" height="48"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" height="32"/>
+  <img src="https://skillicons.dev/icons?i=github" height="32"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="32"/>
 </p>
 
 ---
@@ -59,19 +59,23 @@ I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation 
 
 <p>
   <a href="https://github.com/your-username" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" height="48"/>
+    <img src="https://skillicons.dev/icons?i=github" height="32"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/your-profile" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:your-email@example.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="32"/>
   </a>
 </p>
 
 ---
 
-> **“Wear your failures as a badge of honor.”**  
-> — *Sundar Pichai*
+## Signature
+
+<p align="center">
+  <strong>“Wear your failures as a badge of honor.”</strong><br>
+  <em>— Sundar Pichai</em>
+</p>
