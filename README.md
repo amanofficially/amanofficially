@@ -1,25 +1,25 @@
-<!-- GREENISH PROFESSIONAL HEADER -->
+<!-- PROFESSIONAL BLUE HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ecfdf5,100:d1fae5&height=190&section=header&text=Aman%20Patel&fontSize=42&fontColor=064e3b&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eff6ff,100:dbeafe&height=190&section=header&text=Aman%20Patel&fontSize=42&fontColor=1e3a8a&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <!-- SOFT TYPING ANIMATION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=047857&center=true&vCenter=true&width=520&lines=Beginner+MERN+Stack+Developer;Learning+Full+Stack+Web+Development;Focused+on+Clean+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=2563eb&center=true&vCenter=true&width=520&lines=Beginner+MERN+Stack+Developer;Learning+Full+Stack+Web+Development;Focused+on+Clean+Code" />
 </p>
 
 <!-- GITHUB -->
 
 <p align="center">
   <a href="https://github.com/amanofficially" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-amanofficially-065f46?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-amanofficially-1e40af?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanofficially&label=Profile%20Views&color=10b981&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=amanofficially&label=Profile%20Views&color=3b82f6&style=flat" />
 </p>
 
 ---
@@ -51,8 +51,8 @@
 
 ---
 
-<!-- GREENISH CLEAN FOOTER -->
+<!-- CLEAN BLUE FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d1fae5,100:ecfdf5&height=90&section=footer&text=Learn.%20Build.%20Grow.&fontSize=18&fontColor=064e3b" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dbeafe,100:eff6ff&height=90&section=footer&text=Learn.%20Build.%20Grow.&fontSize=18&fontColor=1e3a8a" width="100%" />
 </p>
