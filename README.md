@@ -1,18 +1,16 @@
-<!-- ===== HEADER START ===== -->
+<!-- ===== GLASS HEADER START ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:5AC8FA&height=180&section=header&text=Aman%20Patel&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A84FF,50:5AC8FA,100:34C9EB&height=200&section=header&text=Aman%20Patel&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=MERN%20Stack%20Developer%20%7C%20Web%20Developer&descSize=18&descAlignY=65" />
 </p>
 
-<h3 align="center">💻 MERN Stack Developer  Web Developer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=5AC8FA&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=C7EFFF&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB;Always+Learning+New+Things" />
 </p>
-<!-- ===== HEADER END ===== -->
+<!-- ===== GLASS HEADER END ===== -->
 
 ---
 
-## 👨🏻‍💻 About Me
+## 🧊👨🏻‍💻 About Me
 
 - 💻 Passionate **MERN Stack Developer**
 - 🌱 Learning **advanced backend & scalable systems**
@@ -22,7 +20,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🧊🧰 Tech Stack
 
 ### 🌐 Frontend
 <p>
@@ -44,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="48"/>
 </p>
 
-### 🛠 Tools & Workspace
+### 🛠 Glass Workspace
 <p>
   <img src="https://skillicons.dev/icons?i=git" height="48"/>
   <img src="https://skillicons.dev/icons?i=github" height="48"/>
@@ -53,7 +51,7 @@
 
 ---
 
-## 🎯 Skills & Strengths
+## 🎯✨ Skills & Strengths
 
 - ⚡ Full Stack Web Development  
 - 🔐 Authentication & Authorization  
@@ -64,7 +62,7 @@
 
 ---
 
-## 📲 Connect With Me
+## 📲🧊 Connect With Me
 
 <p>
   <a href="https://github.com/your-username">
@@ -80,12 +78,12 @@
 
 ---
 
-<!-- ===== FOOTER START ===== -->
+<!-- ===== GLASS FOOTER START ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5AC8FA,100:0A84FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:34C9EB,50:5AC8FA,100:0A84FF&height=120&section=footer" />
 </p>
 
 <p align="center">
-  <sub>Built with 💙 by Aman Patel • MERN Stack Developer</sub>
+  <sub>🧊 Built with a glassy mindset by Aman Patel • MERN Stack Developer</sub>
 </p>
-<!-- ===== FOOTER END ===== -->
+<!-- ===== GLASS FOOTER END ===== -->
