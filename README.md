@@ -52,6 +52,7 @@ I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation 
   <img src="https://skillicons.dev/icons?i=git" height="42" style="margin-right:15px;"/>
   <img src="https://skillicons.dev/icons?i=github" height="42" style="margin-right:15px;"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="42" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="42" style="margin-right:15px;"/>
 </p>
 
 <hr style="border:0.3px solid #d1d5db; margin:20px 0;" />
