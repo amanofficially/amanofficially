@@ -44,7 +44,6 @@ I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation 
 <p>  
   <img src="https://skillicons.dev/icons?i=c" height="42" style="margin-right:15px;"/>  
   <img src="https://skillicons.dev/icons?i=cpp" height="42" style="margin-right:15px;"/>  
-  <img src="https://skillicons.dev/icons?i=python" height="42" style="margin-right:15px;"/>  
 </p>
 
 ### Tools
