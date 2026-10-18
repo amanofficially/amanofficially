@@ -70,6 +70,6 @@ I am Aman Patel, a passionate **MERN Stack Developer** with a strong foundation 
 
 <!-- Quote Section -->
 <p align="center" style="font-family: 'Inter', sans-serif;">
-  <strong style="font-size:1.2em;">“Wear your failures as a badge of honor.”</strong><br>
+  <strong style="font-size:1.2em;">“Wear your failures as a badge of honor. They are proof that you tried something hard.”</strong><br>
   <em style="font-size:1em;">— Sundar Pichai</em>
 </p>
